@@ -1,0 +1,15 @@
+workspace: workspace
+
+output: output
+
+profile: motorola
+
+parallel_jobs: auto
+
+decode_apks: true
+
+keep_workspace: true
+
+generate_reports: true
+
+verbosity: info
