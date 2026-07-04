@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Hjem</item>
+        <item>Arbejde</item>
+        <item>Andre</item>
+        <item>Tilpasset</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Arbejde</item>
+        <item>Andre</item>
+        <item>Tilpasset</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Hjem</item>
+        <item>Mobil</item>
+        <item>Arbejde</item>
+        <item>Arbejdsfax</item>
+        <item>Hjemmefax</item>
+        <item>Personsøger</item>
+        <item>Andet</item>
+        <item>Tilpasset</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Hjem</item>
+        <item>Arbejde</item>
+        <item>Andre</item>
+        <item>Tilpasset</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>Ansigtslås lan ikke bruges. Lås din enhed op på en anden måde.</item>
+        <item>Kunne ikke låses op. Ansigtet er kun delvist registreret.</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Fingerplacering bør variere en smule fra gang til gang. Prøv igen.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Hjem</item>
+        <item>Arbejde</item>
+        <item>Anden</item>
+        <item>Tilpasset</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>mobildata</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>Send automatisk ved indenrigsdækning</item>
+        <item>Send nu</item>
+        <item>Send manuelt senere</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Hvis du vil foretage opkald og sende beskeder via Wi-Fi, skal du først anmode dit mobilselskab om at konfigurere denne tjeneste. Derefter skal du aktivere Wi-Fi-opkald igen fra Indstillinger. (Fejlkode: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Der opstod et problem under registrering af Wi-Fi-opkald hos dit mobilselskab: %1$s</item>
+    </string-array>
+</resources>

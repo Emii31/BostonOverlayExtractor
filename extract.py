@@ -1,4 +1,3 @@
-from boe.core.cli import main
+from boe.core.cli import app
 
-if __name__ == "__main__":
-    raise SystemExit(main())
+app()

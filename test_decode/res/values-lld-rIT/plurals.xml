@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="one">"T'as ciamó %d n tentatif denant che la SIM vëgnes blocada."</item>
+        <item quantity="other">"T'as ciamó %d tentatifs denant che la SIM vëgnes blocada."</item>
+    </plurals>
+</resources>

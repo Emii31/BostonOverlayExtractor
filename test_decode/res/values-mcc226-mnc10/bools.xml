@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_ca_plus_with_bandwidth">true</bool>
+    <bool name="config_show_stat_sys_nfc">true</bool>
+</resources>

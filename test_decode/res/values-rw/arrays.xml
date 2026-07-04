@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Ahabanza</item>
+        <item>Akazi</item>
+        <item>Ikindi</item>
+        <item>Inozamimerere</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Sisitemu ya windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>gugo toke</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Akazi</item>
+        <item>Ikindi</item>
+        <item>Inozamimerere</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Ahabanza</item>
+        <item>Terefoni ngendanwa</item>
+        <item>Akazi</item>
+        <item>Fagisi yakazi</item>
+        <item>Fagisi yo mu rugo</item>
+        <item>Ikimenyetso</item>
+        <item>Ikindi</item>
+        <item>Inozamimerere</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Ahabanza</item>
+        <item>Akazi</item>
+        <item>Ikindi</item>
+        <item>Inozamimerere</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Ahabanza</item>
+        <item>Akazi</item>
+        <item>Ikindi</item>
+        <item>Inozamimerere</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>interineti ya terefoni</item>
+        <item>Wi-Fi</item>
+        <item>Burutufu</item>
+        <item>Umuyoboro ukoresha umugozi</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Guhamagara no kohereza ubutumwa ukoresheje inziramugozi, banza ubaze ushizwe umuyoboro ategure iyo serivice. Noneho fungura inzira mugozi wongere uhamagare igenamiterere. Ikosa muri kode:%1$s</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>"Ikibazo cyo kwandikisha guhamagara kuri Wi‑Fi n'umuyoboro ukoresha:%1$s"</item>
+    </string-array>
+</resources>

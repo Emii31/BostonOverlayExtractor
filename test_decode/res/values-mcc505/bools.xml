@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_use_sim_language_file">false</bool>
+    <bool name="default_domestic_roaming_data_enabled">true</bool>
+    <bool name="enhancement_gsm_data_roaming_enabled">true</bool>
+</resources>

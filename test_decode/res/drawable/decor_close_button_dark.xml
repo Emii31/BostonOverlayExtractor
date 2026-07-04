@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="28.0dp" android:width="28.0dp" android:viewportWidth="22.0" android:viewportHeight="22.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/zz_moto_decor_button_background_dark_color" android:pathData="M11,11m-11,0a11,11 0,1 1,22 0a11,11 0,1 1,-22 0" />
+    <path android:fillColor="@color/decor_button_dark_color" android:pathData="M15.197,6.803C14.937,6.544 14.516,6.544 14.257,6.803L11,10.06L11,10.06L7.743,6.803C7.484,6.544 7.063,6.544 6.803,6.803C6.544,7.063 6.544,7.484 6.803,7.743L10.06,11L10.06,11L6.803,14.257C6.544,14.516 6.544,14.937 6.803,15.197C7.063,15.456 7.484,15.456 7.743,15.197L11,11.94L11,11.94L14.257,15.197C14.516,15.456 14.937,15.456 15.197,15.197C15.456,14.937 15.456,14.516 15.197,14.257L11.94,11L11.94,11L15.197,7.743C15.456,7.484 15.456,7.063 15.197,6.803Z" />
+</vector>

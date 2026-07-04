@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Кућа</item>
+        <item>Посао</item>
+        <item>Друго</item>
+        <item>Прилагођено</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Посао</item>
+        <item>Друго</item>
+        <item>Прилагођено</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Кућа</item>
+        <item>Мобилни</item>
+        <item>Посао</item>
+        <item>Факс на послу</item>
+        <item>Факс код куће</item>
+        <item>Пејџер</item>
+        <item>Друго</item>
+        <item>Прилагођено</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Кућа</item>
+        <item>Посао</item>
+        <item>Друго</item>
+        <item>Прилагођено</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>Откључавање лицем не може да се користи. Откључајте уређај другим методом.</item>
+        <item>Није могуће откључати. Откривен је део лица.</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Требало би да се положај прста мало разликује сваки пут. Покушајте поново.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Кућа</item>
+        <item>Посао</item>
+        <item>Друго</item>
+        <item>Прилагођено</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>мобилни подаци</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Етернет</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>Аутоматски шаљи у националној мрежи</item>
+        <item>Пошаљи сада</item>
+        <item>Ручно пошаљи касније</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Да бисте упућивали позиве и слали поруке преко WiFi-а, прво затражите од мобилног оператера да вам омогући ову услугу. Затим у Подешавањима поново укључите Позивање преко WiFi-а. (кôд грешке: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Проблем у вези са регистровањем позивања преко Wi‑Fi-ја код мобилног оператера: %1$s</item>
+    </string-array>
+</resources>

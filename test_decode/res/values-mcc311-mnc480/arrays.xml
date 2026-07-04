@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_sms_write_message_filter_list">
+        <item>bynumber;900080006200</item>
+        <item>bynumber;87902</item>
+    </string-array>
+</resources>

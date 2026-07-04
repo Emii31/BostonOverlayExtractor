@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="skip_adjust_preferred_network_mode">
+        <item>imsi:31026097</item>
+    </string-array>
+</resources>

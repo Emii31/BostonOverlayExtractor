@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable/$zz_moto_fod_animation_exit_error__0"
+  xmlns:aapt="http://schemas.android.com/aapt" xmlns:android="http://schemas.android.com/apk/res/android">
+    <target android:name="_R_G_L_0_G_D_0_P_0" android:animation="@drawable/$zz_moto_fod_animation_exit_error__1" />
+    <target android:name="_R_G_L_0_G_D_0_P_0" android:animation="@drawable/$zz_moto_fod_animation_exit_error__2" />
+    <target android:name="_R_G_L_0_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_exit_error__3" />
+    <target android:name="_R_G_L_0_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_exit_error__4" />
+    <target android:name="_R_G_L_0_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_exit_error__5" />
+    <target android:name="_R_G_L_0_G_D_2_P_0" android:animation="@drawable/$zz_moto_fod_animation_exit_error__6" />
+    <target android:name="_R_G_L_0_G_D_2_P_0" android:animation="@drawable/$zz_moto_fod_animation_exit_error__7" />
+    <target android:name="_R_G_L_0_G_D_3_P_0" android:animation="@drawable/$zz_moto_fod_animation_exit_error__8" />
+    <target android:name="_R_G_L_0_G_D_3_P_0" android:animation="@drawable/$zz_moto_fod_animation_exit_error__9" />
+    <target android:name="_R_G_L_0_G_D_3_P_0" android:animation="@drawable/$zz_moto_fod_animation_exit_error__10" />
+    <target android:name="_R_G_L_0_G_D_4_P_0" android:animation="@drawable/$zz_moto_fod_animation_exit_error__11" />
+    <target android:name="_R_G_L_0_G_D_4_P_0" android:animation="@drawable/$zz_moto_fod_animation_exit_error__12" />
+    <target android:name="_R_G_L_0_G_D_5_P_0" android:animation="@drawable/$zz_moto_fod_animation_exit_error__13" />
+    <target android:name="_R_G_L_0_G_D_5_P_0" android:animation="@drawable/$zz_moto_fod_animation_exit_error__14" />
+    <target android:name="_R_G_L_0_G_D_5_P_0" android:animation="@drawable/$zz_moto_fod_animation_exit_error__15" />
+    <target android:name="_R_G_L_0_G_D_6_P_0" android:animation="@drawable/$zz_moto_fod_animation_exit_error__16" />
+    <target android:name="_R_G_L_0_G_D_6_P_0" android:animation="@drawable/$zz_moto_fod_animation_exit_error__17" />
+    <target android:name="_R_G_L_0_G_D_7_P_0" android:animation="@drawable/$zz_moto_fod_animation_exit_error__18" />
+    <target android:name="_R_G_L_0_G_D_7_P_0" android:animation="@drawable/$zz_moto_fod_animation_exit_error__19" />
+    <target android:name="_R_G_L_0_G_D_7_P_0" android:animation="@drawable/$zz_moto_fod_animation_exit_error__20" />
+    <target android:name="_R_G_L_0_G" android:animation="@drawable/$zz_moto_fod_animation_exit_error__21" />
+</animated-vector>

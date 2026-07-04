@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">הטלפון לא מורשה MM # 6</string>
+    <string name="mmcc_illegal_me_msim_template">טלפון %d לא מורשה MM#6</string>
+    <string name="mmcc_illegal_ms">כרטיס SIM לא מורשה MM # 3</string>
+    <string name="mmcc_illegal_ms_msim_template">כרטיס SIM %d לא מורשה MM # 3</string>
+    <string name="mmcc_imsi_unknown_in_hlr">כרטיס SIM לא מוקצה MM # 2</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">כרטיס SIM %d לא מוקצה MM # 2</string>
+</resources>

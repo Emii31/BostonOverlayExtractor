@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmiError">सत्र कालबाह्य झाले</string>
+    <string name="notification_channel_wfc">वाय-फाय कॉलिंग</string>
+</resources>

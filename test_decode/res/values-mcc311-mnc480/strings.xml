@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_cdma_otaspnumschema">SELC,1,80,99</string>
+    <string name="prohibit_manual_network_selection_in_gobal_mode">true</string>
+</resources>

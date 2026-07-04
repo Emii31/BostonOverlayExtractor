@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">فون کی اجازت نہیں ہے MM#6</string>
+    <string name="mmcc_illegal_me_msim_template">فون %d کو اجازت نہیں ہے MM#6</string>
+    <string name="mmcc_illegal_ms">‏SIM کی اجازت نہیں ہے MM#3</string>
+    <string name="mmcc_illegal_ms_msim_template">‏SIM %d کی اجازت نہیں ہے MM#3</string>
+    <string name="mmcc_imsi_unknown_in_hlr">‏SIM فراہم نہیں کیا گيا MM#2</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">‏SIM %d فراہم نہیں کیا گيا MM#2</string>
+</resources>

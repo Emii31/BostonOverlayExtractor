@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmiError">انتهت صلاحية الجلسة</string>
+    <string name="notification_channel_wfc">‏الاتصال عبر Wi-Fi</string>
+</resources>

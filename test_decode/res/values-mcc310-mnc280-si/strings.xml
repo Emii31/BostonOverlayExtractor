@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">දුරකථනය MM#6 ඉඩ නොදේ</string>
+    <string name="mmcc_illegal_me_msim_template">දුරකථනය %d MM#6 සඳහා ඉඩ දී නැත</string>
+    <string name="mmcc_illegal_ms">SIM MM#3 ඉඩ නොදේ</string>
+    <string name="mmcc_illegal_ms_msim_template">SIM %d MM#3 සඳහා ඉඩ දී නැත</string>
+    <string name="mmcc_imsi_unknown_in_hlr">SIM MM#2 ප්‍රතිපාදනය නොකරයි</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">SIM %d MM#2 ප්‍රතිපාදනය කර නැත</string>
+</resources>

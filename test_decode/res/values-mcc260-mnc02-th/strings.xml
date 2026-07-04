@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmiError">เซสชันหมดอายุแล้ว</string>
+    <string name="notification_channel_wfc">การโทรผ่าน Wi-Fi</string>
+</resources>

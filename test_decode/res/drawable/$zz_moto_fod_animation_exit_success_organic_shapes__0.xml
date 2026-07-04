@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="190.0dp" android:width="190.0dp" android:viewportWidth="190.0" android:viewportHeight="190.0"
+  xmlns:aapt="http://schemas.android.com/aapt" xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:name="_R_G">
+        <group android:name="_R_G_L_2_G" android:pivotY="836.008" android:scaleX="0.41672" android:scaleY="0.41672" android:rotation="63.55" android:translateX="93.185" android:translateY="-740.515">
+            <group android:name="_R_G_L_2_G_D_0_P_0_G_0_T_0" android:scaleX="1.24481" android:scaleY="1.28976" android:translateY="834.0">
+                <path android:name="_R_G_L_2_G_D_0_P_0" android:fillColor="#8013fff1" android:pathData=" M36.81 -115.25 C92.78,-116.43 91.51,-92.24 91.51,-31.9 C91.51,28.44 129.19,85.71 92.93,121.72 C67.9,146.58 -140.51,90.24 -140.51,29.9 C-140.51,-30.44 -38.38,-113.66 36.81,-115.25c " android:fillType="nonZero" />
+            </group>
+        </group>
+        <group android:name="_R_G_L_1_G" android:pivotY="836.008" android:scaleX="0.41672" android:scaleY="0.41672" android:rotation="0.0" android:translateX="93.185" android:translateY="-740.515">
+            <group android:name="_R_G_L_1_G_D_0_P_0_G_0_T_0" android:scaleX="1.36062" android:scaleY="1.40976" android:translateY="834.0">
+                <path android:name="_R_G_L_1_G_D_0_P_0" android:fillColor="#800030e3" android:pathData=" M14.01 -141.03 C69.98,-142.22 114.51,-38.37 114.51,21.97 C114.51,82.31 42.72,122.59 -15.81,109.78 C-44.69,103.45 -104.91,69.13 -115.7,28.33 C-131.12,-30 -61.18,-139.44 14.01,-141.03c " android:fillType="nonZero" />
+            </group>
+        </group>
+        <group android:name="_R_G_L_0_G" android:pivotY="836.008" android:scaleX="0.45" android:scaleY="0.45" android:rotation="0.0" android:translateX="95.185" android:translateY="-744.015">
+            <path android:name="_R_G_L_0_G_D_0_P_0" android:fillColor="@drawable/$$zz_moto_fod_animation_exit_success_organic_shapes__0__0" android:pathData=" M17.09 679.83 C61.17,682.65 134.62,791.67 145.76,865.98 C156.43,937.18 82.76,955.17 13.41,949.77 C-55.93,944.36 -148.06,928.81 -142.84,856.96 C-137.63,785.12 -52.31,675.4 17.09,679.83c " android:fillType="nonZero" />
+        </group>
+    </group>
+    <group android:name="time_group" />
+</vector>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">Terefoni ntizemewe MM 6#</string>
+    <string name="mmcc_illegal_ms">SIMUKADI ntiyemewe MM 3#</string>
+    <string name="mmcc_imsi_unknown_in_hlr">SIMUKADI ntiyatanzwe MM 2#</string>
+</resources>

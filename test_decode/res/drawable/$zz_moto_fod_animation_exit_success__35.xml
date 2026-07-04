@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:aapt="http://schemas.android.com/aapt" xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator android:interpolator="@drawable/$$zz_moto_fod_animation_exit_success__35__0" android:duration="207" android:startOffset="0" android:valueFrom="0.9" android:valueTo="0.9" android:valueType="floatType" android:propertyName="trimPathEnd" />
+    <objectAnimator android:interpolator="@drawable/$$zz_moto_fod_animation_exit_success__35__1" android:duration="138" android:startOffset="207" android:valueFrom="0.9" android:valueTo="0.5" android:valueType="floatType" android:propertyName="trimPathEnd" />
+</set>

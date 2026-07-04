@@ -1,0 +1,38 @@
+version: 3.0.2
+apkFileName: framework-res.apk
+sdkInfo:
+  minSdkVersion: 35
+  targetSdkVersion: 35
+versionInfo:
+  versionCode: 35
+  versionName: 15
+resourcesInfo:
+  packageId: 1
+  sparseEntries: true
+  compactEntries: true
+featureFlags:
+  android.provider.user_keys: true
+  com.android.internal.camera.flags.camera_hsum_permission: true
+  android.net.platform.flags.register_nsd_offload_engine: true
+  android.content.pm.quarantined_enabled: true
+  com.android.window.flags.screen_recording_callbacks: true
+  android.permission.flags.sensitive_notification_app_protection: true
+  android.app.contextualsearch.flags.enable_service: true
+doNotCompress:
+- arsc
+- jpg
+- ogg
+- png
+- assets/geoid_map/expiration-distance-disk-tile-1.pb
+- assets/geoid_map/expiration-distance-disk-tile-3.pb
+- assets/geoid_map/expiration-distance-disk-tile-5.pb
+- assets/geoid_map/expiration-distance-disk-tile-7.pb
+- assets/geoid_map/expiration-distance-disk-tile-9.pb
+- assets/geoid_map/expiration-distance-disk-tile-b.pb
+- assets/geoid_map/expiration-distance-params.pb
+- assets/geoid_map/geoid-height-disk-tile-1.pb
+- assets/geoid_map/geoid-height-disk-tile-3.pb
+- assets/geoid_map/geoid-height-disk-tile-5.pb
+- assets/geoid_map/geoid-height-disk-tile-7.pb
+- assets/geoid_map/geoid-height-disk-tile-9.pb
+- assets/geoid_map/geoid-height-disk-tile-b.pb

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:paddingTop="14.0dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.inputmethodservice.ExtractEditText android:textSize="17.5dp" android:textColor="#e6ffffff" android:textColorHint="#66ffffff" android:ellipsize="end" android:id="@id/inputExtractEditText" android:background="@null" android:scrollbars="vertical" android:layout_width="0.0px" android:layout_height="match_parent" android:singleLine="false" android:layout_weight="1.0" android:inputType="text" android:textCursorDrawable="@null" android:paddingStart="20.0dp" />
+    <FrameLayout android:id="@id/inputExtractAccessories" android:layout_width="wrap_content" android:layout_height="match_parent" android:paddingStart="8.0dp">
+        <ImageButton android:layout_gravity="center" android:id="@id/inputExtractAction" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingEnd="20.0dp" />
+    </FrameLayout>
+</LinearLayout>

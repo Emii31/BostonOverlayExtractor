@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Egyéb</item>
+        <item>Egyéni</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Csevegő</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Munkahelyi</item>
+        <item>Egyéb</item>
+        <item>Egyéni</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Otthoni</item>
+        <item>Mobil</item>
+        <item>Munkahelyi</item>
+        <item>Munkahelyi fax</item>
+        <item>Otthoni fax</item>
+        <item>Személyhívó</item>
+        <item>Egyéb</item>
+        <item>Egyéni</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Egyéb</item>
+        <item>Egyéni</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>Az arcalapú feloldás nem használható. Oldja fel eszközét egy másik módszerrel.</item>
+        <item>A feloldás nem lehetséges. Az arc egy része látszik.</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Az ujjat minden alkalommal kissé más helyzetben kell az érzékelőre helyezni. Kérjük, próbálja meg újra.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Egyéb</item>
+        <item>Egyéni</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>mobiladatok</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>Automatikus küldés belföldi lefedettség esetén</item>
+        <item>Küldés most</item>
+        <item>Manuális küldés később</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Ha Wi-Fi-hálózaton szeretne telefonálni és üzenetet küldeni, kérje meg szolgáltatóját, hogy állítsa be ezt a szolgáltatást. Ezután kapcsolja be újra a Wi-Fi-hívást a Beállításokban. (Hibakód: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Hiba történt a Wi‑Fi-hívás szolgáltatónál való regisztrálása során: %1$s</item>
+    </string-array>
+</resources>

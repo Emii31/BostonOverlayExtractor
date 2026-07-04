@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Privat</item>
+        <item>Geschäftlich</item>
+        <item>Andere</item>
+        <item>Benutzerdefiniert</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo!</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Geschäftlich</item>
+        <item>Andere</item>
+        <item>Benutzerdefiniert</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Privat</item>
+        <item>Mobil</item>
+        <item>Geschäftlich</item>
+        <item>Fax (geschäftl.)</item>
+        <item>Fax (privat)</item>
+        <item>Pager</item>
+        <item>Andere</item>
+        <item>Benutzerdefiniert</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Privat</item>
+        <item>Geschäftlich</item>
+        <item>Andere</item>
+        <item>Benutzerdefiniert</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>Gesichtsentsperrung kann nicht verwendet werden. Entsperren Sie Ihr Gerät auf andere Weise.</item>
+        <item>Entsperren nicht möglich. Nur ein Teil des Gesichts erkannt.</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Die Position des Fingers sollte jedes Mal ein wenig variieren. Versuch es erneut.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Privat</item>
+        <item>Geschäftlich</item>
+        <item>Andere</item>
+        <item>Benutzerdefiniert</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>Mobile Daten</item>
+        <item>WLAN</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>In Heimatnetz automatisch versenden</item>
+        <item>Jetzt senden</item>
+        <item>Später man. senden</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Um über WLAN telefonieren und Nachrichten senden zu können, bitten Sie zuerst Ihren Mobilfunkanbieter, diesen Dienst einzurichten. Anschließend können Sie die Option \"Anrufe über WLAN\" über die Einstellungen erneut aktivieren. (Fehlercode: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Probleme beim Registrieren von Anrufen über WLAN bei Ihrem Mobilfunkanbieter: %1$s</item>
+    </string-array>
+</resources>

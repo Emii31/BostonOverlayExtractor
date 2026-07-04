@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmiError">Сесија је истекла</string>
+    <string name="notification_channel_wfc">Позивање преко Wi-Fi мреже</string>
+</resources>

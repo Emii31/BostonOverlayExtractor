@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_mobile_mtu">1440</integer>
+    <integer name="config_networkPolicyDefaultWarning">102400</integer>
+    <integer name="default_data_warning_level_mb">102400</integer>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">ফোন অনুমোদিত নয় MM#6</string>
+    <string name="mmcc_illegal_me_msim_template">ফোন %d অনুমোদিত নয় MM#6</string>
+    <string name="mmcc_illegal_ms">SIM অনুমোদিত নয় MM#3</string>
+    <string name="mmcc_illegal_ms_msim_template">SIM %d অনুমোদিত নয় MM#3</string>
+    <string name="mmcc_imsi_unknown_in_hlr">SIM-এর সংস্থান করা হয়নি MM#2</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">SIM %d-এর সংস্থান করা হয়নি MM#2</string>
+</resources>

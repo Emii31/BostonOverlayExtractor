@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_phonenumber_compare_max_match">8</integer>
+</resources>

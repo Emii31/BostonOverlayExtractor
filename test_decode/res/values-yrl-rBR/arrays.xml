@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Uka</item>
+        <item>Muraki</item>
+        <item>Amũetá</item>
+        <item>Upitá arã mayé reputai.</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skipe</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Muraki</item>
+        <item>Amũetá</item>
+        <item>Upita arama reputaiwa yawé</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Uka</item>
+        <item>Celulari</item>
+        <item>Murakí</item>
+        <item>Fax Murakí</item>
+        <item>fax uka</item>
+        <item>"Pager "</item>
+        <item>Amũetá</item>
+        <item>Upitá arama reputaiwa yawé</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Uka</item>
+        <item>Muraki</item>
+        <item>Amũitá</item>
+        <item>Upita arama reputaiwa yawé</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>Ũbá puderi usai Mupirarisawa ruáwara. E-usai amũ metudu pirí mupirari dispusitiwo.</item>
+        <item>Ũbá puderi mupirari. Nhũtu ruá suaxawa upitá detekitara.</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Kuá dedu urikute yumutirika mirixĩga amuramẽ. Remunhã amú wiaji.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Uka</item>
+        <item>Muraki</item>
+        <item>Amũita</item>
+        <item>Upita arama reputaiwa yawé</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>Dadu mutirika</item>
+        <item>Wi-Fi</item>
+        <item>Burutuwi</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>Remũdu irupĩtuté mairamẽ uiku uku upewara upe</item>
+        <item>Remũdu kuiri</item>
+        <item>Remũdu yawetuté asui</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Remunhãrã senũisá asuí umũdú mẽsaji Wi-Fi irũ, yepesáwa reruré ne uperadura kití ukũfigurari arã kuá serwisu. Ariré, religari amũ viaji senũisá Wi-Fi irũ kũfigurasãu upé. Eawísawa paparisawa: %1$s</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Umeresê yepé iwasusawa ĩdé repurupuri senũĩsawa WiFi rupí ne uperasawa ramẽ: %1$s</item>
+    </string-array>
+</resources>

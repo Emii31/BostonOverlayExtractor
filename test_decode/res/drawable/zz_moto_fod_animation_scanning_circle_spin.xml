@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable/$zz_moto_fod_animation_scanning_circle_spin__0"
+  xmlns:aapt="http://schemas.android.com/aapt" xmlns:android="http://schemas.android.com/apk/res/android">
+    <target android:name="_R_G_L_17_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_scanning_circle_spin__1" />
+    <target android:name="_R_G_L_16_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_scanning_circle_spin__2" />
+    <target android:name="_R_G_L_15_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_scanning_circle_spin__3" />
+    <target android:name="_R_G_L_14_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_scanning_circle_spin__4" />
+    <target android:name="_R_G_L_13_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_scanning_circle_spin__5" />
+    <target android:name="_R_G_L_12_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_scanning_circle_spin__6" />
+    <target android:name="_R_G_L_11_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_scanning_circle_spin__7" />
+    <target android:name="_R_G_L_10_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_scanning_circle_spin__8" />
+    <target android:name="_R_G_L_9_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_scanning_circle_spin__9" />
+    <target android:name="_R_G_L_8_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_scanning_circle_spin__10" />
+    <target android:name="_R_G_L_7_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_scanning_circle_spin__11" />
+    <target android:name="_R_G_L_6_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_scanning_circle_spin__12" />
+    <target android:name="_R_G_L_5_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_scanning_circle_spin__13" />
+    <target android:name="_R_G_L_4_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_scanning_circle_spin__14" />
+    <target android:name="_R_G_L_3_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_scanning_circle_spin__15" />
+    <target android:name="_R_G_L_2_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_scanning_circle_spin__16" />
+    <target android:name="_R_G_L_1_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_scanning_circle_spin__17" />
+    <target android:name="_R_G_L_0_G_D_1_P_0" android:animation="@drawable/$zz_moto_fod_animation_scanning_circle_spin__18" />
+    <target android:name="time_group" android:animation="@drawable/$zz_moto_fod_animation_scanning_circle_spin__19" />
+</animated-vector>

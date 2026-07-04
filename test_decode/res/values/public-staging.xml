@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <staging-public-group type="attr" first-id="0x01b70000">
+        <public name="optional" />
+        <public name="adServiceTypes" />
+        <public name="languageSettingsActivity" />
+        <public name="dreamCategory" />
+    </staging-public-group>
+</resources>

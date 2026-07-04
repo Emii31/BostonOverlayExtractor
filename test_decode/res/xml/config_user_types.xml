@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user-types version="1">
+    <change-user-type from="motorola.usertype.profile.appclone" to="android.os.usertype.profile.CLONE" whenVersionLeq="0" />
+</user-types>

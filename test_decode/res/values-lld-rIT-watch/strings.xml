@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="global_action_emergency">"SOS d'emergënza "</string>
+    <string name="permgrouplab_sensors">Sensurs</string>
+    <string name="reboot_to_update_title">Ajornamënt de sistem Wear OS</string>
+</resources>

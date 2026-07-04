@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me_msim_template">‏‮Phone‬‏ %d ‏‮not‬‏ ‏‮allowed‬‏ ‏‮MM#6‬‏</string>
+    <string name="mmcc_illegal_ms">‏‮SIM‬‏ ‏‮not‬‏ ‏‮allowed‬‏ ‏‮MM#3‬‏</string>
+    <string name="mmcc_illegal_ms_msim_template">‏‮SIM‬‏ %d ‏‮not‬‏ ‏‮allowed‬‏ ‏‮MM#3‬‏</string>
+    <string name="mmcc_imsi_unknown_in_hlr">‏‮SIM‬‏ ‏‮not‬‏ ‏‮provisioned‬‏ ‏‮MM#2‬‏</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">‏‮SIM‬‏ %d ‏‮not‬‏ ‏‮provisioned‬‏ ‏‮MM#2‬‏</string>
+</resources>

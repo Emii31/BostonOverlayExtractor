@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="system_error_light">#b3261e</color>
+    <color name="system_error_container_light">#f7dcda</color>
+    <color name="system_on_error_container_light">#410e0b</color>
+    <color name="system_surface_dark">#000000</color>
+    <color name="system_surface_container_low_dark">#252626</color>
+    <color name="system_surface_container_lowest_dark">#252626</color>
+    <color name="system_surface_container_dark">#303030</color>
+    <color name="system_surface_container_high_dark">#474747</color>
+    <color name="system_surface_container_highest_dark">#474747</color>
+    <color name="system_surface_bright_dark">#000000</color>
+    <color name="system_surface_dim_dark">#000000</color>
+    <color name="system_surface_variant_dark">#303030</color>
+    <color name="system_error_dark">#f2b8b5</color>
+    <color name="system_on_error_dark">#601410</color>
+    <color name="system_error_container_dark">#ff8986</color>
+    <color name="system_on_error_container_dark">#410e0b</color>
+    <color name="accent_device_default_dark">@color/system_accent1_400</color>
+    <color name="background_device_default_dark">#000000</color>
+    <color name="background_floating_device_default_dark">@color/system_accent1_800</color>
+    <color name="button_normal_device_default_dark">@color/btn_watch_default_dark</color>
+    <color name="error_color_device_default_dark">#ff746e</color>
+    <color name="foreground_device_default_dark">@color/white</color>
+    <color name="primary_device_default_dark">@color/system_neutral1_500</color>
+    <color name="surface_dark">@color/system_neutral1_800</color>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Domů</item>
+        <item>Práce</item>
+        <item>(další)</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo!</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Práce</item>
+        <item>Ostatní</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Domů</item>
+        <item>Mobil</item>
+        <item>Práce</item>
+        <item>Fax práce</item>
+        <item>Fax domů</item>
+        <item>Pager</item>
+        <item>Ostatní</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Domov</item>
+        <item>Práce</item>
+        <item>Ostatní</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>Odemknutí obličejem nelze použít. Odemkněte zařízení jiným způsobem.</item>
+        <item>Nelze odemknout. Nalezena část obličeje.</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Umístění prstu by se pokaždé mělo mírně lišit. Zkuste to znovu.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Domů</item>
+        <item>Práce</item>
+        <item>Ostatní</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>mobilní data</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>Automatické odeslání v Domácí síti</item>
+        <item>Odeslat nyní</item>
+        <item>Odeslat později ručně</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Chcete-li volat a odesílat SMS přes síť Wi-Fi, nejprve požádejte operátora, aby vám tuto službu nastavil. Poté volání přes Wi-Fi opět zapněte v Nastavení. (Kód chyby: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Při registraci volání přes Wi-Fi u operátora %1$s došlo k chybě</item>
+    </string-array>
+</resources>

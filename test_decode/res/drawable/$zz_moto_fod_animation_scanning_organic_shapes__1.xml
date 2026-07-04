@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:aapt="http://schemas.android.com/aapt" xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator android:interpolator="@drawable/$$zz_moto_fod_animation_scanning_organic_shapes__1__0" android:duration="172" android:startOffset="0" android:valueFrom="1.01481" android:valueTo="1.01481" android:valueType="floatType" android:propertyName="scaleX" />
+    <objectAnimator android:interpolator="@drawable/$$zz_moto_fod_animation_scanning_organic_shapes__1__1" android:duration="172" android:startOffset="0" android:valueFrom="1.05146" android:valueTo="1.05146" android:valueType="floatType" android:propertyName="scaleY" />
+    <objectAnimator android:interpolator="@drawable/$$zz_moto_fod_animation_scanning_organic_shapes__1__2" android:duration="379" android:startOffset="172" android:valueFrom="1.01481" android:valueTo="1.24481" android:valueType="floatType" android:propertyName="scaleX" />
+    <objectAnimator android:interpolator="@drawable/$$zz_moto_fod_animation_scanning_organic_shapes__1__3" android:duration="379" android:startOffset="172" android:valueFrom="1.05146" android:valueTo="1.28976" android:valueType="floatType" android:propertyName="scaleY" />
+    <objectAnimator android:interpolator="@drawable/$$zz_moto_fod_animation_scanning_organic_shapes__1__4" android:duration="483" android:startOffset="552" android:valueFrom="1.24481" android:valueTo="1.01481" android:valueType="floatType" android:propertyName="scaleX" />
+    <objectAnimator android:interpolator="@drawable/$$zz_moto_fod_animation_scanning_organic_shapes__1__5" android:duration="483" android:startOffset="552" android:valueFrom="1.28976" android:valueTo="1.05146" android:valueType="floatType" android:propertyName="scaleY" />
+</set>

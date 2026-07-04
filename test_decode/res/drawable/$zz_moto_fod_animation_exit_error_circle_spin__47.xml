@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:aapt="http://schemas.android.com/aapt" xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator android:interpolator="@drawable/$$zz_moto_fod_animation_exit_error_circle_spin__47__0" android:duration="138" android:startOffset="0" android:valueFrom="114.697" android:valueTo="142.595" android:valueType="floatType" android:propertyName="rotation" />
+    <objectAnimator android:interpolator="@drawable/$$zz_moto_fod_animation_exit_error_circle_spin__47__1" android:duration="69" android:startOffset="138" android:valueFrom="142.595" android:valueTo="167.741" android:valueType="floatType" android:propertyName="rotation" />
+    <objectAnimator android:interpolator="@drawable/$$zz_moto_fod_animation_exit_error_circle_spin__47__2" android:duration="69" android:startOffset="207" android:valueFrom="167.741" android:valueTo="146.246" android:valueType="floatType" android:propertyName="rotation" />
+    <objectAnimator android:interpolator="@drawable/$$zz_moto_fod_animation_exit_error_circle_spin__47__3" android:duration="69" android:startOffset="276" android:valueFrom="146.246" android:valueTo="165.085" android:valueType="floatType" android:propertyName="rotation" />
+    <objectAnimator android:interpolator="@drawable/$$zz_moto_fod_animation_exit_error_circle_spin__47__4" android:duration="69" android:startOffset="345" android:valueFrom="165.085" android:valueTo="158.52" android:valueType="floatType" android:propertyName="rotation" />
+</set>

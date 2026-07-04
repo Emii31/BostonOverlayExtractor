@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_mobile_mtu">1428</integer>
+    <integer name="extra_delay_time_ms">600000</integer>
+</resources>

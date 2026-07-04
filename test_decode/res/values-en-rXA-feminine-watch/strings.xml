@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="global_action_emergency">(F)[Éḿéŕĝéñçý ŠÖŠ one two]</string>
+    <string name="permgrouplab_sensors">(F)[Šéñšöŕš one two]</string>
+    <string name="reboot_to_update_prepare">(F)[Þŕéþåŕîñĝ ţö ûþðåţé one two three]</string>
+    <string name="reboot_to_update_title">(F)[Ŵéåŕ ÖŠ šýšţéḿ ûþðåţé one two three]</string>
+    <string name="select_input_method">(F)[Çĥööšé îñþûţ one two]</string>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Kodu</item>
+        <item>Töö</item>
+        <item>Muu</item>
+        <item>Kohandatud</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Töö</item>
+        <item>Muu</item>
+        <item>Kohandatud</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Kodu</item>
+        <item>Mobiil</item>
+        <item>Töö</item>
+        <item>Tööfaks</item>
+        <item>Kodufaks</item>
+        <item>Piipar</item>
+        <item>Muu</item>
+        <item>Kohandatud</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Kodu</item>
+        <item>Töö</item>
+        <item>Muu</item>
+        <item>Kohandatud</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>Näoga avamist ei saa kasutada. Avage seade muul meetodil.</item>
+        <item>Ei saa avada. Tuvastati osa näost.</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Sõrme paigutus peaks iga kord natuke erinema. Proovige uuesti.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Kodu</item>
+        <item>Töö</item>
+        <item>Muu</item>
+        <item>Kohandatud</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>mobiilne andmeside</item>
+        <item>WiFi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>Automaatne saatmine kodumaises levialas</item>
+        <item>Saada kohe</item>
+        <item>Saada hiljem käsitsi</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>WiFi-võrgu kaudu helistamiseks ja sõnumite saatmiseks paluge operaatoril esmalt see teenus seadistada. Seejärel lülitage WiFi-kõned menüüs Seaded uuesti sisse. (Veakood: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Probleem WiFi-kõnede registreerimisel teie operaatoriga: %1$s</item>
+    </string-array>
+</resources>

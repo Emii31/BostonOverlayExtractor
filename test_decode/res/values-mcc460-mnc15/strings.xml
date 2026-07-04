@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_operator_long_name">CHINA BROADNET</string>
+    <string name="config_operator_name">CBN</string>
+    <string name="overlay_operator_name_rule_value">SPN:CBN|CHINA BROADNET</string>
+</resources>

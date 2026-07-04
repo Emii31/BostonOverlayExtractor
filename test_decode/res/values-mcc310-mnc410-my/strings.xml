@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">ဖုန်းကိုခွင့်မပြုပါ MM#6</string>
+    <string name="mmcc_illegal_me_msim_template">ဖုန်း %d ခွင့်မပြုပါ MM#6</string>
+    <string name="mmcc_illegal_ms">SIM ကိုခွင့်မပြု MM#3</string>
+    <string name="mmcc_illegal_ms_msim_template">SIM ကဒ် %d ခွင့်မပြု MM#3</string>
+    <string name="mmcc_imsi_unknown_in_hlr">ဆင်းမ်ကဒ်မထောက်ပံ့ပါ MM#2</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">ဆင်းမ်ကဒ် %d မထောက်ပံ့ပါ MM#2</string>
+</resources>

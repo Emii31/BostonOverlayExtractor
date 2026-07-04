@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Kāinga</item>
+        <item>Mahi</item>
+        <item>Tētahi atu</item>
+        <item>Ritenga</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Mahi</item>
+        <item>Tētahi atu</item>
+        <item>Ritenga</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Kāinga</item>
+        <item>Pūkoro</item>
+        <item>Mahi</item>
+        <item>Waeatuhi mahi</item>
+        <item>Waeatuhi Kāinga</item>
+        <item>Whārangi</item>
+        <item>Tētahi atu</item>
+        <item>Ritenga</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Kāinga</item>
+        <item>Mahi</item>
+        <item>Tētahi atu</item>
+        <item>Ritenga</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>Kāore e taea te whakamahi i te wetemaukati kanohi. Wetemaukatitia tō pūrere mā tētahi atu aratuka.</item>
+        <item>Kāore e taea te wetemaukati. Kua kitea he kanohi wāhanga.</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Kia iti noa iho te rerekē o te whakanoho matimati i ia wā. Me ngana ano.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Kāinga</item>
+        <item>Mahi</item>
+        <item>Tētahi atu</item>
+        <item>Ritenga</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>raraunga pūkoro</item>
+        <item>Wi-Fi</item>
+        <item>Nihokikorangi</item>
+        <item>Itarangi</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>Tuku Aunoa ina noho i roto i te pānuitanga ā-kāinga</item>
+        <item>Tuku Ināianei</item>
+        <item>Tuku Ā-Ringa Ā Muri Ake</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Hei waea me te tuku karere mā te Wi-Fi, i te tuatahi tonoa tō kaikawe kia tatū i tēnei ratonga. Kātahi ka whakakā anō i te waea Wi-Fi mai i Ngā Tautuhinga. (Waehere hapa: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Tukua te rēhita waea Wi‑Fi ki tō kaikawe: %1$s</item>
+    </string-array>
+</resources>

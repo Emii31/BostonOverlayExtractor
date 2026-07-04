@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>Klic prek omrežja Wi-Fi operaterja Vodafone</item>
+    </string-array>
+</resources>

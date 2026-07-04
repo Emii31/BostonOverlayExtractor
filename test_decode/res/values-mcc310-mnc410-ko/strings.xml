@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">미인증 휴대전화 MM#6</string>
+    <string name="mmcc_illegal_me_msim_template">미인증 %d 휴대전화 MM#6</string>
+    <string name="mmcc_illegal_ms">미인증 USIM MM#3</string>
+    <string name="mmcc_illegal_ms_msim_template">미인증 USIM %d MM#3</string>
+    <string name="mmcc_imsi_unknown_in_hlr">미등록 USIM MM#2</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">미등록 USIM %d MM#2</string>
+</resources>

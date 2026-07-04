@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Casa</item>
+        <item>Trabajo</item>
+        <item>Otros</item>
+        <item>Personalización</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Trabajo</item>
+        <item>Otros</item>
+        <item>Personalización</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Casa</item>
+        <item>Celular</item>
+        <item>Trabajo</item>
+        <item>Fax laboral</item>
+        <item>Fax de casa</item>
+        <item>Localizador</item>
+        <item>Otros</item>
+        <item>Personalización</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Casa</item>
+        <item>Trabajo</item>
+        <item>Otros</item>
+        <item>Personalización</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>No se puede usar el desbloqueo facial. Desbloquea el dispositivo con otro método.</item>
+        <item>No se puede desbloquear el dispositivo. Se detectó el rostro de manera parcial.</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>La posición del dedo debe variar levemente en cada ocasión. Inténtalo de nuevo.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Casa</item>
+        <item>Trabajo</item>
+        <item>Otros</item>
+        <item>Personalización</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>Datos móviles</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>Enviar automáticamente si hay cobertura local</item>
+        <item>Enviar ahora</item>
+        <item>Enviar manualmente más tarde</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Para realizar llamadas y enviar mensajes por Wi-Fi, pídele a tu operador que ajuste este servicio. Luego, vuelve a activar Llamadas por Wi-Fi en Ajustes. (Código de error: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Error al registrar las Llamadas por Wi‑Fi con tu operador: %1$s</item>
+    </string-array>
+</resources>

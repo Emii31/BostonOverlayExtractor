@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>自宅</item>
+        <item>仕事</item>
+        <item>その他</item>
+        <item>カスタム</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Googleトーク</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>仕事</item>
+        <item>その他</item>
+        <item>カスタム</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>自宅</item>
+        <item>携帯</item>
+        <item>仕事</item>
+        <item>FAX（仕事）</item>
+        <item>FAX（自宅）</item>
+        <item>ポケベル</item>
+        <item>その他</item>
+        <item>カスタム</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>自宅</item>
+        <item>仕事</item>
+        <item>その他</item>
+        <item>カスタム</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>[顔認証でロック解除]を使用できません。別の方法でデバイスのロックを解除してください。</item>
+        <item>ロック解除できません。顔の一部のみ検出されています。</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>指の位置を毎回少しずつ変える必要があります。もう一度試してください。</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>自宅</item>
+        <item>仕事</item>
+        <item>その他</item>
+        <item>カスタム</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>モバイルデータ</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>イーサネット</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>国内通話圏内にいるときに自動送信</item>
+        <item>今すぐ送信</item>
+        <item>後で手動で送信</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Wi-Fi 経由で音声通話の発信やメッセージの送信を行うには、携帯通信会社に Wi-Fi サービスを申し込んだ上で、設定画面で Wi-Fi 通話を再度 ON にしてください（エラーコード: %1$s）</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>携帯通信会社への Wi‑Fi 通話の登録中に問題が発生しました（%1$s）</item>
+    </string-array>
+</resources>

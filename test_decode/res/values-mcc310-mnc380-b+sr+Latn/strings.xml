@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me_msim_template">Telefon %d nije dozvoljen MM#6</string>
+    <string name="mmcc_illegal_ms">SIM kartica nije dozvoljena MM#3</string>
+    <string name="mmcc_illegal_ms_msim_template">SIM %d nije dozvoljen MM#3</string>
+    <string name="mmcc_imsi_unknown_in_hlr">SIM kartica nije podešena MM#2</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">SIM %d nije dodeljen MM#2</string>
+</resources>

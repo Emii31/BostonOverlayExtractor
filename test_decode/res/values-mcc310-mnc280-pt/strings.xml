@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">Smartphone não permitido MM#6</string>
+    <string name="mmcc_illegal_me_msim_template">O telefone %d não é permitido MM #6</string>
+    <string name="mmcc_illegal_ms">Chip não permitido MM#3</string>
+    <string name="mmcc_illegal_ms_msim_template">O chip %d não é permitido MM #3</string>
+    <string name="mmcc_imsi_unknown_in_hlr">Chip não aprovisionado MM#2</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">O chip %d não foi aprovisionado MM #2</string>
+</resources>

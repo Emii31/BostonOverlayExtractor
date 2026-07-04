@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_carrier_volte_available">true</bool>
+    <bool name="config_carrier_volte_tty_supported">false</bool>
+    <bool name="config_enable_appstate_broadcast">true</bool>
+    <bool name="config_enable_device_state_broadcast">true</bool>
+</resources>

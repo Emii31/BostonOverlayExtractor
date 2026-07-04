@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Domiciliu</item>
+        <item>Serviciu</item>
+        <item>Altele</item>
+        <item>Personalizat</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Serviciu</item>
+        <item>Altele</item>
+        <item>Personalizată</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Domiciliu</item>
+        <item>Mobil</item>
+        <item>Serviciu</item>
+        <item>Fax serviciu</item>
+        <item>Fax domiciliu</item>
+        <item>Pager</item>
+        <item>Altele</item>
+        <item>Personalizat</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Domiciliu</item>
+        <item>Serviciu</item>
+        <item>Altele</item>
+        <item>Personalizat</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>Deblocarea facială nu poate fi utilizată. Deblochează-ți dispozitivul folosind altă metodă.</item>
+        <item>Nu se poate realiza deblocarea. Față detectată parțial.</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Locul în care apăsați degetul trebuie să varieze ușor de fiecare dată. Încercați din nou.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Domiciliu</item>
+        <item>Serviciu</item>
+        <item>Altele</item>
+        <item>Personalizat</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>date mobile</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>Trimitere automată atunci când este în acoperire internă</item>
+        <item>Trimitere acum</item>
+        <item>Trimitere manuală mai târziu</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Pentru a face apeluri și a trimite mesaje prin Wi-Fi, mai întâi solicită configurarea acestui serviciu la operator. Apoi, activează din nou apelarea prin Wi-Fi din Setări. (Cod de eroare: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>A apărut o problemă la înregistrarea apelării prin Wi‑Fi la operatorul dvs.: %1$s</item>
+    </string-array>
+</resources>

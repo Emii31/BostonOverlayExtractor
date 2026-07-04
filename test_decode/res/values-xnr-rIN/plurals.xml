@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="one">सिम लॉक होने ते पहले तुसा बला %d मोका बचया हैं।</item>
+        <item quantity="other">तुसांते %d प्रयास बचे हन्न इसते बाद सिम ब्लॉक होई जानी है</item>
+    </plurals>
+</resources>

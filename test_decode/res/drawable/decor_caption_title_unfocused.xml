@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:tint="#4dbdbdbd" android:shape="rectangle" android:tintMode="src_over"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="?colorPrimary" />
+</shape>

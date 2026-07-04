@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="one">Han sór pipir to krỹg %d Hẽremũn kónhogo pi kihã rán kỹ ní, kỹ SIM tỹ nĩfénh mũ ser.</item>
+        <item quantity="other">Han sór pipir to krỹg %d Hẽremũn kónhogo pi kihã rán kỹ ní, kỹ SIM tỹ nĩfénh mũ ser.</item>
+    </plurals>
+</resources>

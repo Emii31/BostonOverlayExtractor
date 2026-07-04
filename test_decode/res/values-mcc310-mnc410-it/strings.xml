@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">MM n. 6 - Telefono non supportato</string>
+    <string name="mmcc_illegal_me_msim_template">MM n. 6 - Telefono %d non supportato</string>
+    <string name="mmcc_illegal_ms">MM n. 3 - SIM non supportata</string>
+    <string name="mmcc_illegal_ms_msim_template">MM n. 3 - SIM %d non supportata</string>
+    <string name="mmcc_imsi_unknown_in_hlr">MM n. 2 - SIM non predisposta</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">MM n. 2 - SIM %d non predisposta</string>
+</resources>

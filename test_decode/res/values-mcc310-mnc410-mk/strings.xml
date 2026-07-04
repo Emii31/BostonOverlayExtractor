@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">Телефонот не е дозволен MM #6</string>
+    <string name="mmcc_illegal_me_msim_template">Телефонот %d не е дозволен MM #6</string>
+    <string name="mmcc_illegal_ms">SIM-картичката не е дозволена MM #6</string>
+    <string name="mmcc_illegal_ms_msim_template">SIM-картичката %d не е дозволена MM #3</string>
+    <string name="mmcc_imsi_unknown_in_hlr">Не е обезбедена SIM-картичка MM #2</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">Не е обезбедена SIM-картичка %d MM #2</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">មិន​អនុញ្ញាត​ចំពោះ​ទូរសព្ទ​ទេ MM#6</string>
+    <string name="mmcc_illegal_me_msim_template">ទូរសព្ទ %d មិនត្រូវបានអនុញ្ញាត MM#6</string>
+    <string name="mmcc_illegal_ms">មិនអនុញ្ញាត​ចំពោះស៊ីមកាត​ទេ MM#3</string>
+    <string name="mmcc_illegal_ms_msim_template">ស៊ីម %d មិនត្រូវបានអនុញ្ញាត MM#3</string>
+    <string name="mmcc_imsi_unknown_in_hlr">ស៊ីមកាត​មិនត្រូវបាន​ផ្ដល់ជូនទេ MM#2</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">ស៊ីម %d មិនត្រូវបានផ្ដល់ជូន MM#2</string>
+</resources>

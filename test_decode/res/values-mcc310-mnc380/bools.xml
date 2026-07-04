@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="allow_dial_emergency_with_non_emergency_calls">false</bool>
+    <bool name="config_appendSwVersionToUA">true</bool>
+    <bool name="config_inflateSignalStrength">false</bool>
+</resources>

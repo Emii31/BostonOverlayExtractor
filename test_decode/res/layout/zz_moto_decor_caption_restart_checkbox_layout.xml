@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="start|center" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBox android:textAppearance="@style/TextAppearance.Material.Subhead" android:id="@id/zz_moto_decor_caption_check" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="20.0dp" android:button="@drawable/btn_check_material_anim" android:text="@string/zz_moto_restart_dialog_checkbox_msg" />
+</LinearLayout>

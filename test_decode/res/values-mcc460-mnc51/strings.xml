@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_operator_long_name">CHINA BROADNET-China Telecom</string>
+    <string name="config_operator_name">CBN-CTC</string>
+</resources>

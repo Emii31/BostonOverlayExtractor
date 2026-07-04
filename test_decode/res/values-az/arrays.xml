@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Ev</item>
+        <item>İş</item>
+        <item>Digər</item>
+        <item>Fərdi</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Söhbət</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>İş</item>
+        <item>Digər</item>
+        <item>Fərdi</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Ev</item>
+        <item>Mobil</item>
+        <item>İş</item>
+        <item>İş Faksı</item>
+        <item>Ev Faksı</item>
+        <item>Peycer</item>
+        <item>Digər</item>
+        <item>Şəxsi</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Ev</item>
+        <item>İş</item>
+        <item>Digər</item>
+        <item>Düzənləyin</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>Üz ilə kiliddən çıxarma istifadə edilə bilməz. Cihazınızın kilidini başqa üsulla açın.</item>
+        <item>Kilidi açmaq mümkün deyil. Qismən üz aşkarlandı.</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Barmaq yerləşdirmək hər dəfə azca fərqlənə bilər. Yenidən cəhd edin.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Ev</item>
+        <item>İş</item>
+        <item>Digər</item>
+        <item>Fərdi</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>mobil data</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>Daxili əhatə olanda avtomatik göndər</item>
+        <item>İndi göndər</item>
+        <item>Daha sonra əl ilə göndərin</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Zəng etmək və Wi-Fi üzərindən mesaj göndərmək üçün əvvəlcə operatordan bu cihazı quraşdırmağı tələb edin. Sonra Ayarlardan Wi-Fi zəngini deaktiv edin. (Xəta kodu: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Operatorla Wi‑Fi zənglərini qeydə alarkən xəta baş verdi: %1$s</item>
+    </string-array>
+</resources>

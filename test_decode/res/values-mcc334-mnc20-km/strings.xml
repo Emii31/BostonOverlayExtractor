@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_pdp_reject_dialog_title" />
+    <string name="config_pdp_reject_multi_conn_to_same_pdn_not_allowed">មិនអនុញ្ញាតឱ្យមានការភ្ជាប់ PDN ច្រើនសម្រាប់ APN ដែលបានផ្ដល់ឱ្យទេ -55-</string>
+    <string name="config_pdp_reject_service_not_subscribed">មិនបានជាវសេវាកម្មនេះទេ -33-</string>
+    <string name="config_pdp_reject_user_authentication_failed">ការផ្ទៀងផ្ទាត់ភាពត្រឹមត្រូវមិនបានសម្រេច -29-</string>
+</resources>

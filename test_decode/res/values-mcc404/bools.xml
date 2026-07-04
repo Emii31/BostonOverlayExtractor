@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_camera_sound_forced">false</bool>
+    <bool name="config_showAreaUpdateInfoSettings">true</bool>
+    <bool name="config_use_sim_language_file">false</bool>
+    <bool name="enhancement_gsm_data_roaming_enabled">true</bool>
+</resources>

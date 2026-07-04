@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Ĩn</item>
+        <item>Vẽnh rãnhrãj</item>
+        <item>Ũ ag</item>
+        <item>vẽnh mỹ han kỹ nĩ</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Rãnhrãj</item>
+        <item>Ũ tỹ ũ ag</item>
+        <item>Ki han kỹ nĩ</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>ĨN</item>
+        <item>serurar</item>
+        <item>Rãnhrãj</item>
+        <item>Fax rãnhrãj</item>
+        <item>Fax ĩn</item>
+        <item>Pager</item>
+        <item>Ũ tỹ ũ ag</item>
+        <item>Ti vẽnh sĩnvĩn ge</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Ĩn</item>
+        <item>" Rãnhrãj"</item>
+        <item>Ũ ag</item>
+        <item>Ki han kỹ nĩ</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>Pi Kakã ve kỹ tỹ róm kej fã tỹ vóg ge há nĩ. Tỹ ke ũ han ra vin fã róm jé.</item>
+        <item>Pi róm ge há nĩ. Kakã jagtã tỹvĩn vỹ kãgmĩ ja nĩ.</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Ã nĩjuja ven ja vỹ vẽnhmỹn kỹ fãg mãn ge kej ge nĩ. Han mãn ra.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Ĩn</item>
+        <item>Rãnhrãj</item>
+        <item>Ũ ag</item>
+        <item>vẽnh mỹ han kỹ nĩ</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>Nanu votĩ</item>
+        <item>WI-FI</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>"Ti tỹ vẽsóg ki jãgnãj ge ti tỹ ã to kãsan kỹ. "</item>
+        <item>Jãgnãj ge ser</item>
+        <item>Kar vẽsóg ki inh hã jãgnãj ge</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Ã ũ vẽjaprãr jé mré ũ mỹ vẽnhvĩ jãgnã jé Wi-Fi, ã operanora inh mỹ ki han gé. Kar riga ke mañ ã Wi-Fi vẽjaprãr ti, ki hyn-han fã tá. Kygnẽ to kónhigo: %1$s</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>kórég ja vỹ kỹ pi kikro mũ WI-FI japrãr fã ki operadora rej ge ra %1$s</item>
+    </string-array>
+</resources>

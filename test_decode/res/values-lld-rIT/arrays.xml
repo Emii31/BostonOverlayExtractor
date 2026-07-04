@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Vidrel prinzipal</item>
+        <item>Laur</item>
+        <item>Ater</item>
+        <item>Personalisé</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Laur</item>
+        <item>Ater</item>
+        <item>Personalisé</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Vidrel prinzipal</item>
+        <item>Fonin</item>
+        <item>Laur</item>
+        <item>Telefax de laur</item>
+        <item>Telefax de ciasa</item>
+        <item>Pipser</item>
+        <item>Ater</item>
+        <item>Personalisé</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Vidrel prinzipal</item>
+        <item>Laur</item>
+        <item>Ater</item>
+        <item>Personalisé</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>"La funziun Desblocada cun le müs ne pó nia gní adorada. Desblochëia to aparat te n'atra manira."</item>
+        <item>Ara ne vá nia da desbloché. Na pert dl müs é gnüda reconesciüda.</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>"La posiziun dl dëit messess mudé n pü' vigni iade. Prëibel proa ciamó n iade."</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Vidrel prinzipal</item>
+        <item>Laur</item>
+        <item>Ater</item>
+        <item>Personalisé</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>dac mobii</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>Mené demez automaticamënter cun na rëi locala</item>
+        <item>Mëna Sëgn</item>
+        <item>"Mené demez a man plü tert "</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Por fá telefonades y mené messaji tres Wi-FI, damana denant to operadú da imposté chësc sorvisc. Impëia spo danü la funziun Telefonades Wi-Fi tles Impostaziuns. (Codesc de fal: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Al é n problem cun la registraziun dles telefonades Wi-Fi cun to operadú: %1$s</item>
+    </string-array>
+</resources>

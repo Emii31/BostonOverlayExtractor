@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">फोन अलाऊड नी है MM#6</string>
+    <string name="mmcc_illegal_me_msim_template">फ़ोन %d दी अनुमति नीं ए MM#6</string>
+    <string name="mmcc_illegal_ms">सिमअलाऊड नी हैMM#3</string>
+    <string name="mmcc_illegal_ms_msim_template">SIM %d अनुमति नीं ए MM#3</string>
+    <string name="mmcc_imsi_unknown_in_hlr">सिम डा प्रावधान नी हैMM#2</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">SIM %d प्रावधानित नीं MM#2</string>
+</resources>

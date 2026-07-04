@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s WiFi Calling</item>
+        <item>WLAN Call</item>
+        <item>%s WLAN Call</item>
+        <item>%s Wi-Fi</item>
+        <item>WiFi Calling | %s</item>
+        <item>%s VoWifi</item>
+        <item>Wi-Fi Calling</item>
+        <item>Wi-Fi</item>
+        <item>WiFi Calling</item>
+        <item>VoWifi</item>
+        <item>%s WiFi Calling</item>
+    </string-array>
+</resources>

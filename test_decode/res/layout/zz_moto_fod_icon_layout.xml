@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView android:clickable="true" android:layout_width="@dimen/zz_moto_fod_icon_width" android:layout_height="@dimen/zz_moto_fod_icon_height" android:scaleType="fitCenter" android:contentDescription="@string/fingerprint_icon_content_description"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

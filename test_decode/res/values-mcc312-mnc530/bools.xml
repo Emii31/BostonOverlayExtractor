@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_device_volte_provisioning_enabled_bool">true</bool>
+    <bool name="config_duplicate_port_omadm_wappush">true</bool>
+    <bool name="config_dynamic_mms_user_agent">true</bool>
+    <bool name="config_dynamic_mms_user_agent_profile_url">true</bool>
+    <bool name="config_enable_appstate_broadcast">true</bool>
+    <bool name="config_enable_device_state_broadcast">true</bool>
+    <bool name="config_mms_content_disposition_support">false</bool>
+    <bool name="default_domestic_roaming_data_enabled">true</bool>
+    <bool name="enhancement_data_roaming_enabled">true</bool>
+    <bool name="enhancement_gsm_data_roaming_enabled">true</bool>
+</resources>

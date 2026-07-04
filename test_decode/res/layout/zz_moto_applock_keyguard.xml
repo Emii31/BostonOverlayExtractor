@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ff33aa99" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/zz_moto_applock_unlock_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="CHECK CODE" android:layout_centerInParent="true" />
+    <Button android:id="@id/zz_moto_applock_move_task_to_back_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="60.0dp" android:text="MOVE TO BACK" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+</RelativeLayout>

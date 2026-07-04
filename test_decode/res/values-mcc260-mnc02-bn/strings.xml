@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmiError">সেশনের মেয়াদোত্তীর্ণ</string>
+    <string name="notification_channel_wfc">ওয়াই-ফাই কলিং</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_spn_display_rules">
+        <item>724,2</item>
+    </string-array>
+    <string-array name="unloggable_phone_numbers">
+        <item>180</item>
+    </string-array>
+</resources>

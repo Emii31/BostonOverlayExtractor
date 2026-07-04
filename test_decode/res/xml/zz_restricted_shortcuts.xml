@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<restricted_shortcuts>
+    <restricted_shortcut keycode="31" level="1" meta_state="0x1000" />
+    <restricted_shortcut keycode="50" level="1" meta_state="0x1000" />
+    <restricted_shortcut keycode="111" level="1" />
+</restricted_shortcuts>

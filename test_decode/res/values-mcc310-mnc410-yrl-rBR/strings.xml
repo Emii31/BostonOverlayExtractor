@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">Ũba uxiári kuá terefuni MM #6</string>
+    <string name="mmcc_illegal_me_msim_template">Ũba uxiári kuá terefuni %d MM #6</string>
+    <string name="mmcc_illegal_ms">Ũba uxiári kuá xípi MM #3</string>
+    <string name="mmcc_illegal_ms_msim_template">Ũba uxiári kuá xípi %d MM #3</string>
+    <string name="mmcc_imsi_unknown_in_hlr">Kuá xípi ũba upitá ana apruvisiunádu MM #2</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">Kuá xípi %d ũba upitá apruvisiunádu MM #2</string>
+</resources>

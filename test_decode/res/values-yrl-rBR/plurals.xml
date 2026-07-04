@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="one">"Tẽtarisawa puerasawa %d Si kodigu eré i dijitaraĩma uikó , SIM burukeyara uikó kurí. "</item>
+        <item quantity="other">"Tẽtarisawa puerasawa %d Si kodigu eré i dijitaraĩma uikó , SIM burukeyara uikó kurí "</item>
+    </plurals>
+</resources>

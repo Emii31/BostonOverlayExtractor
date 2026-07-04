@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">電話を使えません MM#6</string>
+    <string name="mmcc_illegal_me_msim_template">電話%dを使えません MM#6</string>
+    <string name="mmcc_illegal_ms">SIMを使えません MM#3</string>
+    <string name="mmcc_illegal_ms_msim_template">SIM%dを使えません MM#3</string>
+    <string name="mmcc_imsi_unknown_in_hlr">SIMをプロビジョニングできません MM#2</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">SIM%dをプロビジョニングできません MM#2</string>
+</resources>

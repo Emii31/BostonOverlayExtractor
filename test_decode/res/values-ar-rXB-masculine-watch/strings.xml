@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="global_action_emergency">(M)‏‮Emergency‬‏ ‏‮SOS‬‏</string>
+    <string name="permgrouplab_sensors">(M)‏‮Sensors‬‏</string>
+    <string name="reboot_to_update_prepare">(M)‏‮Preparing‬‏ ‏‮to‬‏ ‏‮update‬‏</string>
+    <string name="reboot_to_update_title">(M)‏‮Wear‬‏ ‏‮OS‬‏ ‏‮system‬‏ ‏‮update‬‏</string>
+    <string name="select_input_method">(M)‏‮Choose‬‏ ‏‮input‬‏</string>
+</resources>

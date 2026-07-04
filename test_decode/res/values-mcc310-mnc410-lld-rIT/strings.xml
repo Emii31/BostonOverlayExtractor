@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">MM#6 - Telefon nia ametü</string>
+    <string name="mmcc_illegal_me_msim_template">MM#6 - Telefon nia ametü%d</string>
+    <string name="mmcc_illegal_ms">MM#3 - SIM nia autorisada</string>
+    <string name="mmcc_illegal_ms_msim_template">MM#3 - SIM %d nia autorisada</string>
+    <string name="mmcc_imsi_unknown_in_hlr">MM#2 - SIM nia a desposiziun</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">MM#2 - SIM %d nia a desposiziun</string>
+</resources>

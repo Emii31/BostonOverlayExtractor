@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="global_action_emergency">Tu fũrũn ke ki SOS</string>
+    <string name="permgrouplab_sensors">sẽsor ag</string>
+    <string name="reboot_to_update_prepare">Vẽn kãn tỹ han mãn tãg ge</string>
+    <string name="reboot_to_update_title">Wear OS tỹ tãg ke</string>
+    <string name="select_input_method">Ra rãj ge kuprãg ge</string>
+</resources>

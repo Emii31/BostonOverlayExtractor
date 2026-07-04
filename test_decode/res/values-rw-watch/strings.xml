@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="global_action_emergency">Ukeneye ubutabazi</string>
+    <string name="permgrouplab_sensors">Ikoranabuhanga</string>
+    <string name="reboot_to_update_title">Ivugurura rya sisitemu ya Wear OS</string>
+</resources>

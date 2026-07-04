@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>집</item>
+        <item>직장</item>
+        <item>기타</item>
+        <item>맞춤설정</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google 토크</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>직장</item>
+        <item>기타</item>
+        <item>맞춤설정</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>집</item>
+        <item>휴대전화</item>
+        <item>직장</item>
+        <item>직장 팩스</item>
+        <item>집 팩스</item>
+        <item>호출기</item>
+        <item>기타</item>
+        <item>맞춤설정</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>집</item>
+        <item>직장</item>
+        <item>기타</item>
+        <item>맞춤설정</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>얼굴 인식 잠금해제를 사용할 수 없습니다. 다른 방법으로 기기를 잠금 해제하십시오.</item>
+        <item>잠금 해제할 수 없습니다. 얼굴의 일부만 인식되었습니다.</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>매번 조금씩 지문 위치를 바꿔야 합니다. 다시 시도하십시오.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>집</item>
+        <item>직장</item>
+        <item>기타</item>
+        <item>맞춤설정</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>모바일 데이터</item>
+        <item>Wi-Fi</item>
+        <item>블루투스</item>
+        <item>이더넷</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>국내 범위 내인 경우 자동으로 보내기</item>
+        <item>지금 보내기</item>
+        <item>나중에 수동으로 보내기</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Wi-Fi를 사용하여 전화를 걸고 메시지를 보내려면 먼저 이동통신사에 문의하여 서비스를 설정해야 합니다. 그런 다음 설정에서 Wi-Fi 통화를 사용 설정하시기 바랍니다. (오류 코드: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>이동통신사를 통해 Wi‑Fi 통화를 등록하는 중에 문제가 발생했습니다. 오류 코드: %1$s</item>
+    </string-array>
+</resources>

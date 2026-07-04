@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Особиста</item>
+        <item>Роб.</item>
+        <item>Інше</item>
+        <item>Указати</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Роб.</item>
+        <item>Інше</item>
+        <item>Указати</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Дом.</item>
+        <item>Мобільний</item>
+        <item>Роб.</item>
+        <item>Роб. факс</item>
+        <item>Дом. факс</item>
+        <item>Пейджер</item>
+        <item>Інше</item>
+        <item>Указати</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Дом.</item>
+        <item>Роб.</item>
+        <item>Інше</item>
+        <item>Указати</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>Використання функції \"Фейсконтроль\" неможливе. Розблокуйте пристрій в інший спосіб.</item>
+        <item>Не вдається розблокувати. Виявлено частину обличчя</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Розташування пальця має щоразу дещо відрізнятися. Повторіть спробу.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Дом.</item>
+        <item>Роб.</item>
+        <item>Інше</item>
+        <item>Указати</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>мобільне передавання даних</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>У мережах національних операторів надсилати автоматично</item>
+        <item>Надіслати зараз</item>
+        <item>Надсилати вручну згодом</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Щоб телефонувати або надсилати повідомлення через Wi-Fi, спершу попросіть свого оператора налаштувати цю послугу. Після цього знову ввімкніть дзвінки через Wi-Fi у налаштуваннях. (Код помилки: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Проблема з реєстрацією дзвінків через Wi‑Fi у вашого оператора: %1$s</item>
+    </string-array>
+</resources>

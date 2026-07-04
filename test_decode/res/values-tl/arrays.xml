@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Home</item>
+        <item>Trabaho</item>
+        <item>Iba pa</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Trabaho</item>
+        <item>Iba pa</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Home</item>
+        <item>Mobile</item>
+        <item>Trabaho</item>
+        <item>Fax sa Trabaho</item>
+        <item>Fax sa Tahanan</item>
+        <item>Pager</item>
+        <item>Iba pa</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Home</item>
+        <item>Trabaho</item>
+        <item>Iba pa</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>Hindi magagamit ang Face unlock. I-unlock ang iyong device gamit ang ibang paraan.</item>
+        <item>Hindi na-unlock. Bahagi lang ng mukha ang na-detect.</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Maaaring magbago ang ng paglalagyan ng daliri. Pakisubukang muli.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Home</item>
+        <item>Trabaho</item>
+        <item>Iba pa</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>mobile data</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>Awtomatikong Ipadala kapag nasa Domestic na saklaw</item>
+        <item>Ipadala Ngayon</item>
+        <item>Manwal na Ipadala Mamaya</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Upang makatawag at makapagpadala ng mga mensahe sa Wi-Fi, hilingin muna sa iyong carrier na i-set up ang serbisyong ito. Pagkatapos ay i-on muli ang pagtawag gamit ang Wi-Fi mula sa Mga Setting. (Error code: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Nagkaroon ng isyu sa pagrehistro ng pagtawag gamit ang Wi‑Fi sa iyong carrier: %1$s</item>
+    </string-array>
+</resources>

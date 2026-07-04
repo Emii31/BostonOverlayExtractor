@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">ᏗᏟᏃᎮᏗ ᎭᏗ ᎠᎵᏍᎪᎸᏔᏅ ᏱᎩ MM#6</string>
+    <string name="mmcc_illegal_me_msim_template">ᏗᏟᏃᎮᏗ %d Ꮭ ᎠᎵᏍᎪᎸᏔᏅ ᏱᎩ MM#6</string>
+    <string name="mmcc_illegal_ms">SIM ᎥᏝ ᎠᎵᏍᎪᎸᏔᏅ MM#3</string>
+    <string name="mmcc_illegal_ms_msim_template">SIM %d ᎥᏝ ᎠᎵᏍᎪᎸᏔᏅ MM#3</string>
+    <string name="mmcc_imsi_unknown_in_hlr">SIM ᎥᏝ ᏓᏓᏁᎲᎢ ᎦᎷᎯᏍᏗ MM#2</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">SIM %d ᎥᏝ ᏓᏓᏁᎲᎢ ᎦᎷᎯᏍᏗ MM#2</string>
+</resources>

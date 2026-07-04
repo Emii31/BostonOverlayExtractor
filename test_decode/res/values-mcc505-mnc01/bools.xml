@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="default_domestic_roaming_data_enabled">false</bool>
+    <bool name="enhancement_gsm_data_roaming_enabled">false</bool>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>ᎣᏪᏅᏒ</item>
+        <item>ᏗᎦᎸᏫᏍᏓᏁᏗ</item>
+        <item>ᏐᎢ</item>
+        <item>ᏄᏍᏛ ᎢᏯᏛᏁᏗ</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google ᎦᏬᏂᎯᏍᏗ</item>
+        <item>ICQ</item>
+        <item>ᎦᏬᏂᎭ</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>ᏗᎦᎸᏫᏍᏓᏁᏗ</item>
+        <item>ᏐᎢ</item>
+        <item>ᏄᏍᏛ ᎢᏯᏛᏁᏗ</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>ᎣᏪᏅᏒ</item>
+        <item>ᎠᏂᎩᏍᎩ</item>
+        <item>ᏗᎦᎸᏫᏍᏓᏁᏗ</item>
+        <item>"ᏗᎦᎸᏫᏍᏓᏁᏗ ᎪᏪᎵ ᏗᏟᎶᏍᏔᏅ ᏫᎦᏅᏅᎢ "</item>
+        <item>"ᎣᏪᏅᏒ ᎪᏪᎵ ᏗᏟᎶᏍᏔᏅ ᏫᎦᏅᏅᎢ "</item>
+        <item>ᎤᎦᏅᏓᏛᎢ</item>
+        <item>ᏐᎢ</item>
+        <item>ᏄᏍᏛ ᎢᏯᏛᏁᏗ</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>ᎣᏪᏅᏒ</item>
+        <item>ᏗᎦᎸᏫᏍᏓᏁᏗ</item>
+        <item>ᏐᎢ</item>
+        <item>ᏄᏍᏛ ᎢᏯᏛᏁᏗ</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>ᎧᏁᏉᏍᏗᏍᎬ ᎠᏂᏐᎭᎾᎳᎩ ᏝᏰᎵ ᎨᏒᎩ ᎬᏔᏅᎯ. ᎠᏂᏐᎭᎾᎳᎩ ᏂᏨᎤᎢ ᏥᏂᎬᏅᏗᏓᎾ ᎬᏗ ᏄᏓᎴ ᎢᎬᏁᏗ.</item>
+        <item>ᎤᏓᏄᎸᏅ ᎾᎿᎢ ᎠᏂᏐᎭᎾᎳᎩ. ᎢᎦᏓᏊ ᎧᏁᏉᏍᏗᏍᎬ ᎤᏕᎶᎰᏒ</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>ᎦᏰᏌᏛ ᎤᏙᏢᏒ ᎾᎢᏳᏃ ᏧᏓᎴᎾᎢ ᏍᏗᎩᏓ ᎢᏧᎳ ᎠᏥᎢᎵᏒ. ᎰᏩᏊ ᏏᏊ ᏥᎭᏁᎵᏓ.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>ᎣᏪᏅᏒ</item>
+        <item>ᏗᎦᎸᏫᏍᏓᏁᏗ</item>
+        <item>ᏐᎢ</item>
+        <item>ᏄᏍᏛ ᎢᏯᏛᏁᏗ</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>ᎠᏂᎩᏍᎩ ᎦᏘᏍᎩᏌᏅᎯ</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>ᏓᏆᎴᏅ ᏓᏟᎶᏍᏗᏓᏅ ᏫᏅᎥᎦ ᎢᏳᏃ ᎾᎿ ᎤᏪᏅᏒᎢ ᎫᏢᏗ</item>
+        <item>ᏓᏟᎶᏍᏗᏓᏅ Ꭷ</item>
+        <item>ᎣᏩᏌ ᏱᎬᏁᏗ ᏓᏟᎶᏍᏗᏓᏅ ᎣᏂᏯᎨᏍᏗ</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>ᎾᎢ ᏫᏛᏓᏏ ᎠᎴ ᏫᏘᏅᏒ ᏗᎧᏃᎮᏍᎩ ᎦᏬᎯᎸᏙᏗ Wi-Fi, ᎠᎬᏱ ᎠᏓᏛᏗ ᏣᏤᎵ ᎠᎯᏙᎯ ᎾᎢ ᏱᏛᎦᎧᎲᎦ ᎯᎠ ᎢᏯᏓᏛᏁᏗ. ᎿᏉᏃ ᎯᏍᏚᎢ Wi-Fi ᏫᎬᏗᏍᎬ ᏏᏊ ᏂᏓᏳᏓᎴᏅ ᏕᎦᎧᎲᎢ. (ᎦᎵᏓᏍᏔᏅ ᎠᏍᏓᏩᏛᏍᏙᏗ: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>ᎠᏓᎴᎬ ᎥᏍᏆᏂᎪᏗᏍᎬ Wi‑Fi ᏛᏯᏂᏍᎬ ᎣᏓᏁᎳᏁᎸᎢ: %1$s</item>
+    </string-array>
+</resources>

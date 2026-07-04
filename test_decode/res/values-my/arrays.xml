@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>အိမ်</item>
+        <item>အလုပ်</item>
+        <item>တခြား</item>
+        <item>မိမိစိတ်ကြိုက်</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>ရာဟူး</item>
+        <item>စကိုက်ပ်</item>
+        <item>QQ</item>
+        <item>ဂူဂဲလ်တော့ခ်</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>အလုပ်</item>
+        <item>တခြား</item>
+        <item>မိမိစိတ်ကြိုက်</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>အိမ်</item>
+        <item>မိုဘိုင်း</item>
+        <item>အလုပ်</item>
+        <item>အလုပ်ဖက်စ်</item>
+        <item>အိမ်ဖက်စ်</item>
+        <item>ပေဂျာ</item>
+        <item>တခြား</item>
+        <item>မိမိစိတ်ကြိုက်</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>အိမ်</item>
+        <item>အလုပ်</item>
+        <item>တခြား</item>
+        <item>မိမိစိတ်ကြိုက်</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>မျက်နှာဖြင့် လော့ခ်ဖွင့်ခြင်းကို အသုံးမပြုနိုင်ပါ။ အခြားနည်းလမ်းဖြင့် သင့်စက်ပစ္စည်းကို လော့ခ်ဖွင့်ပါ။</item>
+        <item>လော့ခ်ဖွင့်၍မရပါ။ မျက်နှာတစ်စိတ်တစ်ပိုင်းကို တွေ့ရှိခဲ့သည်။</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>လက်ဗွေကို တင်လိုက်သည့်အခါတိုင်း နေရာအနည်းငယ်ရွှေ့သင့်သည်။ ထပ်ကြိုးစားပါ။</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>အိမ်</item>
+        <item>အလုပ်</item>
+        <item>တခြား</item>
+        <item>မိမိစိတ်ကြိုက်</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>မိုဘိုင်းဒေတာ</item>
+        <item>Wi-Fi</item>
+        <item>ဘလူးတုသ်</item>
+        <item>အီသာနက်</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>သည့်အခါပြည်တွင်းလွှမ်းခြုံအတွက်အော်တို Send</item>
+        <item>ယခု ပို့ပါ</item>
+        <item>ကိုယ်တိုင်နောက်ပိုင်းတွင် Send</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Wi-Fi အသုံးပြု၍ ဖုန်းခေါ်ရန်နှင့် မက်ဆေ့ဂျ်ပို့ရန်အတွက် သင့်ဝန်ဆောင်မှုပေးသူကို ဤဝန်ဆောင်မှုအား သတ်မှတ်ပေးရန် ဦးစွာတောင်းဆိုပါ။ ထို့နောက် ဆက်တင်ထဲသို့ သွား၍ Wi-Fi ဖြင့် ဖုန်းခေါ်ခြင်းကို ဖွင့်ရပါမည်။ (အမှားကုဒ်- %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>သင်၏ ဝန်ဆောင်မှုပေးသူဖြင့် Wi‑Fi ခေါ်ဆိုမှုကို မှတ်ပုံတင်ရာတွင် ပြဿနာရှိနေသည်− %1$s</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">Telefon nie jest dozwolony MM#6</string>
+    <string name="mmcc_illegal_me_msim_template">Telefon %d nie jest dozwolony MM#6</string>
+    <string name="mmcc_illegal_ms">Karta SIM nie jest dozwolona MM#3</string>
+    <string name="mmcc_illegal_ms_msim_template">Karta SIM %d nie jest dozwolona MM#3</string>
+    <string name="mmcc_imsi_unknown_in_hlr">Karta SIM nie jest skonfigurowana MM#2</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">Karta SIM %d nie jest skonfigurowana MM#2</string>
+</resources>

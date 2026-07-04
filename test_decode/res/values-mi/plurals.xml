@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="one">Kei a koe %d ngana e toe ana i mua i te maukatitanga o SIM.</item>
+        <item quantity="other">He ō nganatanga %d e toe ana i mua i te maukatitanga o SIM.</item>
+    </plurals>
+</resources>

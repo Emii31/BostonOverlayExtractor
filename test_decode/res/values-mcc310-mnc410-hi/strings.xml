@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">फ़ोन की अनुमति नहीं है MM#6</string>
+    <string name="mmcc_illegal_me_msim_template">फ़ोन %d की अनुमति नहीं है MM#6</string>
+    <string name="mmcc_illegal_ms">SIM की अनुमति नहीं है MM#3</string>
+    <string name="mmcc_illegal_ms_msim_template">SIM %d की अनुमति नहीं है MM#3</string>
+    <string name="mmcc_imsi_unknown_in_hlr">SIM का प्रावधान नहीं किया गया है MM#2</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">SIM %d का प्रावधान नहीं किया गया है MM#2</string>
+</resources>

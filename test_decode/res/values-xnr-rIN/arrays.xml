@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>होम</item>
+        <item>कम्म</item>
+        <item>अन्य</item>
+        <item>कस्टम</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>ऐम</item>
+        <item>विंडोज लाईव</item>
+        <item>याहू</item>
+        <item>स्काइप</item>
+        <item>कयू कयू</item>
+        <item>गूगल टॉक</item>
+        <item>आईसीक्यू</item>
+        <item>जैबर</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>कम्म</item>
+        <item>अन्य</item>
+        <item>कस्टम</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>होम</item>
+        <item>मोबाइल</item>
+        <item>कम्म</item>
+        <item>कम्मे दा फैक्स</item>
+        <item>होम फैक्स</item>
+        <item>पेजर</item>
+        <item>अन्य</item>
+        <item>कस्टम</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>होम</item>
+        <item>कम्म</item>
+        <item>अन्य</item>
+        <item>कस्टम</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>फेस अनलॉक दा इस्तेमाल नीं किया जा सकदा। अपने डिवाइस नुं किसी अन्य तरीके से अनलॉक करा।</item>
+        <item>अनलॉक करने च असमर्थ। आंशिक चेहरे दा पता चला।</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>अंगुळी रखणा हर बारी थोड़ा लग होणा चाहिंदा। मेहरबानी करि फिरि कोसत करा।</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>होम</item>
+        <item>कम्म</item>
+        <item>अन्य</item>
+        <item>कस्टम</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>मोबाइल डेटा</item>
+        <item>वीपीएन कन्ने एप्स</item>
+        <item>ब्लूटूथ</item>
+        <item>ईथरनेट</item>
+        <item>वीपीएन</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>घरेलू कवरेज च होने पर ऑटो भेजें</item>
+        <item>अब भेजें</item>
+        <item>मैन्युअल रूप से बाद च भेजें</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>वाईफाई कने कॉल्स या मेसेज सेंड करने ताईं अपने केरिअर जो ऐ सेटअप करने जो बोला फिरि दोबारा सेटिंग्स च जाई क वाईफाई कालिंग ओन करा (कोड त्रुटी: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>अपने कैरियर कने वाई‑Fi कॉलिंग जो पंजीकृत करने बिच समस्या: %1$s</item>
+    </string-array>
+</resources>

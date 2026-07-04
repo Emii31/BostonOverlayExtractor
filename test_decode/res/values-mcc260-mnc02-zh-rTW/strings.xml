@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmiError">工作階段已逾期</string>
+    <string name="notification_channel_wfc">Wi-Fi 通話</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/autofill_bottomsheet_background" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.server.autofill.ui.BottomSheetLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/autofill_save" android:background="?^attr-private/colorSurface" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/autofill_save_outer_margin">
+        <ScrollView android:id="@id/autofill_sheet_scroll_view" android:layout_width="match_parent" android:layout_height="0.0dp" android:fillViewport="true" android:layout_weight="1.0">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/autofill_save_outer_margin" android:layout_marginEnd="@dimen/autofill_save_outer_margin">
+                <ImageView android:layout_gravity="center" android:id="@id/autofill_save_icon" android:layout_width="match_parent" android:layout_height="@dimen/autofill_save_icon_max_height" android:scaleType="fitCenter" />
+                <TextView android:textAppearance="@style/AutofillSaveUiTitle" android:gravity="center" android:id="@id/autofill_save_title" android:paddingBottom="24.0dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dp" android:text="@string/autofill_save_title" />
+                <FrameLayout android:id="@id/autofill_save_custom_subtitle" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="0.0dp" />
+                <View android:id="@id/autofill_sheet_scroll_view_space" android:layout_width="match_parent" android:layout_height="16.0dp" />
+            </LinearLayout>
+        </ScrollView>
+        <View android:id="@id/autofill_sheet_divider" android:layout_width="match_parent" android:layout_height="1.0dp" style="@style/AutofillHalfSheetDivider" />
+        <com.android.server.autofill.ui.BottomSheetButtonBarLayout android:theme="@style/Theme.DeviceDefault.AutofillHalfScreenDialogButton" android:layout_gravity="end" android:orientation="horizontal" android:id="@id/autofill_save_button_bar" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dp" android:layout_marginBottom="8.0dp" android:layout_marginStart="@dimen/autofill_save_outer_margin" android:layout_marginEnd="@dimen/autofill_save_outer_margin">
+            <Button android:id="@id/autofill_save_no" android:paddingTop="0.0dp" android:paddingBottom="0.0dp" android:layout_width="wrap_content" android:layout_height="40.0dp" android:layout_marginTop="4.0dp" android:layout_marginBottom="4.0dp" android:minWidth="0.0dp" android:text="@string/autofill_save_no" android:paddingStart="12.0dp" android:paddingEnd="12.0dp" style="?borderlessButtonStyle" />
+            <Space android:id="@id/autofill_button_bar_spacer" android:visibility="invisible" android:layout_width="0.0dp" android:layout_height="0.0dp" android:layout_weight="1.0" />
+            <Button android:id="@id/autofill_save_yes" android:layout_width="wrap_content" android:layout_height="40.0dp" android:layout_marginTop="4.0dp" android:layout_marginBottom="4.0dp" android:minWidth="0.0dp" android:text="@string/autofill_save_yes" style="@style/AutofillHalfSheetTonalButton" />
+        </com.android.server.autofill.ui.BottomSheetButtonBarLayout>
+    </com.android.server.autofill.ui.BottomSheetLayout>
+</LinearLayout>

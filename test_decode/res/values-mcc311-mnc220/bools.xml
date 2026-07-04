@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_cdma_roaming_spn_values">true</bool>
+    <bool name="config_device_volte_provisioning_enabled_bool">true</bool>
+    <bool name="config_sms_decode_gsm_8bit_data">true</bool>
+    <bool name="default_domestic_roaming_data_enabled">true</bool>
+    <bool name="enhancement_data_roaming_enabled">true</bool>
+    <bool name="enhancement_gsm_data_roaming_enabled">true</bool>
+    <bool name="format_cdma_number_with_plus_in_gsm_roaming">true</bool>
+</resources>

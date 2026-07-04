@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<moto-desktop-app-config>
+    <package displayMetricsSizeForceLikePhone="true" packageName="com.tencent.mm" restartWhenDisplayChanged="user_restart" specialStatusBarHeightOnMotDisplay="true" />
+    <package disallowOpenOnDesktop="true" packageName="com.google.android.apps.wallpaper" />
+    <package disallowOpenOnDesktop="true" packageName="com.google.android.projection.gearhead.phonescreen" />
+    <package disallowOpenOnDesktop="true" packageName="com.motorola.genie" />
+    <package packageName="com.google.android.apps.googleassistant" restartWhenDisplayChanged="user_restart" />
+    <package packageName="com.google.android.calculator" restartWhenDisplayChanged="user_restart" />
+    <package packageName="com.google.android.calendar" restartWhenDisplayChanged="user_restart" />
+    <package packageName="com.android.chrome" restartWhenDisplayChanged="user_restart" />
+    <package packageName="com.google.android.deskclock" restartWhenDisplayChanged="user_continue" />
+    <package packageName="com.google.android.contacts" restartWhenDisplayChanged="user_restart" />
+    <package packageName="com.google.android.apps.docs" restartWhenDisplayChanged="user_restart" />
+    <package packageName="com.google.android.apps.nbu.files" restartWhenDisplayChanged="user_restart" />
+    <package packageName="com.google.android.keep" restartWhenDisplayChanged="user_restart" />
+    <package packageName="com.google.android.apps.maps" restartWhenDisplayChanged="user_restart" />
+    <package packageName="com.google.android.apps.messaging" restartWhenDisplayChanged="user_restart" />
+    <package packageName="com.google.android.videos" restartWhenDisplayChanged="user_restart" />
+    <package packageName="com.android.vending" restartWhenDisplayChanged="user_restart" />
+    <package packageName="com.google.android.apps.youtube.music" restartWhenDisplayChanged="user_restart" />
+    <package packageName="com.motorola.mobiledesktop" restartWhenDisplayChanged="force_continue" />
+    <package packageName="com.google.android.dialer" restartWhenDisplayChanged="user_continue" />
+</moto-desktop-app-config>

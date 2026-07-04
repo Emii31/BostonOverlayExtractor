@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_spn_display_rules">
+        <item>73001,1</item>
+        <item>73002,1</item>
+        <item>73004,1</item>
+        <item>73005,1</item>
+        <item>73006,1</item>
+        <item>73007,1</item>
+        <item>73008,1</item>
+        <item>73009,1</item>
+        <item>73011,1</item>
+        <item>73012,1</item>
+        <item>73013,1</item>
+        <item>73016,1</item>
+        <item>73019,1</item>
+        <item>73023,1</item>
+        <item>73099,1</item>
+    </string-array>
+</resources>

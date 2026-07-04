@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="one">ᏂᎯ ᎤᎭ %d ᎤᎾᎵᏃᎯᏴᎯ ᏳᏁᎶᏔᏅᏉ ᎤᏓᎷᎸ SIM ᏄᏍᏛ ᎯᏩᏛᏗ.</item>
+        <item quantity="other">ᏂᎯ ᎤᎭ %d ᎤᎾᎵᏃᎯᏴᎯ ᏳᏁᎶᏔᏅᏉ ᎤᏓᎷᎸ SIM ᏄᏍᏛ ᎯᏩᏛᏗ.</item>
+    </plurals>
+</resources>

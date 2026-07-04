@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me_msim_template">A(z) %d telefon nincs engedélyezve MM#6</string>
+    <string name="mmcc_illegal_ms">A SIM-kártya nem engedélyezett (MM#3)</string>
+    <string name="mmcc_illegal_ms_msim_template">A(z) %d SIM-kártya nincs engedélyezve MM#3</string>
+    <string name="mmcc_imsi_unknown_in_hlr">Nem engedélyezett SIM-kártya (MM#2)</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">A(z) %d SIM-kártya nincs aktiválva MM#2</string>
+</resources>

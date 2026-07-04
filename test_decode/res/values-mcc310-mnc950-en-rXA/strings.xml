@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">[Þĥöñé ñöţ åļļöŵéð ḾḾ#6 one two three]</string>
+    <string name="mmcc_illegal_me_msim_template">[Þĥöñé %d ñöţ åļļöŵéð ḾḾ#6 one two three]</string>
+    <string name="mmcc_illegal_ms">[ŠÎḾ ñöţ åļļöŵéð ḾḾ#3 one two three]</string>
+    <string name="mmcc_illegal_ms_msim_template">[ŠÎḾ %d ñöţ åļļöŵéð ḾḾ#3 one two three]</string>
+    <string name="mmcc_imsi_unknown_in_hlr">[ŠÎḾ ñöţ þŕöVîšîöñéð ḾḾ#2 one two three]</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">[ŠÎḾ %d ñöţ þŕöVîšîöñéð ḾḾ#2 one two three]</string>
+</resources>

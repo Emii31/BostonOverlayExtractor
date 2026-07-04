@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>المنزل</item>
+        <item>عمل</item>
+        <item>آخر</item>
+        <item>مخصص</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>‏Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>عمل</item>
+        <item>آخر</item>
+        <item>مخصص</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>المنزل</item>
+        <item>الجوال</item>
+        <item>العمل</item>
+        <item>فاكس العمل</item>
+        <item>فاكس المنزل</item>
+        <item>جهاز نداء</item>
+        <item>آخر</item>
+        <item>مخصص</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>المنزل</item>
+        <item>عمل</item>
+        <item>آخر</item>
+        <item>مخصص</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>لا يمكن استخدام إلغاء قفل الجهاز بالوجه. ألغِ قفل جهازك بطريقة أخرى.</item>
+        <item>يتعذر إلغاء القفل. تم اكتشاف جزء من الوجه.</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>يجب أن يتغير موضع الإصبع قليلاً كل مرة. يرجى إعادة المحاولة.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>المنزل</item>
+        <item>عمل</item>
+        <item>آخر</item>
+        <item>مخصص</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>بيانات الجوّال</item>
+        <item>Wi-Fi</item>
+        <item>البلوتوث</item>
+        <item>إيثرنت</item>
+        <item>‏شبكة VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>الإرسال تلقائيًا عند التغطية المحلية</item>
+        <item>الإرسال الآن</item>
+        <item>الإرسال يدويًا لاحقًا</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>‏لإجراء مكالمات وإرسال رسائل عبر Wi-Fi، اطلب من مفعِّل شبكة الجوّال أولاً إعداد هذه الخدمة، ثم فعِّل الاتصال عبر Wi-Fi مرة أخرى من خلال الإعدادات. (رمز الخطأ: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>‏حدثت مشكلة أثناء تسجيل الاتصال عبر Wi‑Fi باستخدام مشغِّل شبكة الجوّال: %1$s</item>
+    </string-array>
+</resources>

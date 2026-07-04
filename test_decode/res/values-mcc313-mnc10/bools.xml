@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="adjusting_lte_signal_rsrp_level_as_band_changing">true</bool>
+    <bool name="config_sms_decode_gsm_8bit_data">true</bool>
+</resources>

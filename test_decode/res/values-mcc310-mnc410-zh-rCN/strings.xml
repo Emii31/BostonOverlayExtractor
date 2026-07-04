@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">手机不允许 MM#6</string>
+    <string name="mmcc_illegal_me_msim_template">手机 %d 不允许 MM#6</string>
+    <string name="mmcc_illegal_ms">SIM 卡不允许 MM#3</string>
+    <string name="mmcc_illegal_ms_msim_template">SIM 卡 %d 不允许 MM#3</string>
+    <string name="mmcc_imsi_unknown_in_hlr">SIM 卡未配置 MM#2</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">SIM 卡 %d 未配置 MM#2</string>
+</resources>

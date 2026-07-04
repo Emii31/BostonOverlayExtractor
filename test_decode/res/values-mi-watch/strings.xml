@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="global_action_emergency">SOS Ohorere</string>
+    <string name="permgrouplab_sensors">Ngā Pūoko</string>
+    <string name="reboot_to_update_title">Whakahōu pūnaha OS Wear OS</string>
+</resources>

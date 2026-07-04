@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="global_action_emergency">SOS kutarasawa yara</string>
+    <string name="permgrouplab_sensors">Usaãsaraita</string>
+    <string name="reboot_to_update_prepare">Mũgaturu uikú mukuíri arã</string>
+    <string name="reboot_to_update_title">Wear OS mukuirisawa</string>
+    <string name="select_input_method">Purawaka wikésawa</string>
+</resources>

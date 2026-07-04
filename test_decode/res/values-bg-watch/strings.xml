@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="global_action_emergency">Функция за спешен случай</string>
+    <string name="permgrouplab_sensors">Сензори</string>
+    <string name="reboot_to_update_prepare">Подготвя се за актуализация</string>
+    <string name="reboot_to_update_title">Обновяване на системата на Wear OS</string>
+    <string name="select_input_method">Избиране на метод на въвеждане</string>
+</resources>

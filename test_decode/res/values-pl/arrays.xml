@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Dom</item>
+        <item>Służbowy</item>
+        <item>Inne</item>
+        <item>Niestandardowy</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Służbowy</item>
+        <item>Inne</item>
+        <item>Niestandardowy</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Dom</item>
+        <item>Komórka</item>
+        <item>Służbowy</item>
+        <item>Faks w pracy</item>
+        <item>Faks domowy</item>
+        <item>Pager</item>
+        <item>Inny</item>
+        <item>Niestandardowy</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Dom</item>
+        <item>Służbowy</item>
+        <item>Inny</item>
+        <item>Niestandardowy</item>
+    </string-array>
+    <string-array name="face_error_vendor">
+        <item>Nie można użyć Rozpoznawania twarzy. Odblokuj urządzenie za pomocą innej metody.</item>
+        <item>Nie można odblokować. Wykryto część twarzy</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Położenie palca powinno nieznacznie różnić się za każdym razem. Spróbuj ponownie.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Dom</item>
+        <item>Służbowy</item>
+        <item>Inne</item>
+        <item>Niestandardowy</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>mobilna transmisja danych</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="sms_roaming_guard_modes">
+        <item>Automatycznie wyślij, gdy znajdziesz się na obszarze kraju</item>
+        <item>Wyślij teraz</item>
+        <item>Wyślij później ręcznie</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Aby dzwonić i wysyłać wiadomości przez Wi-Fi, poproś swojego operatora o skonfigurowanie tej usługi. Potem ponownie włącz połączenia przez Wi-Fi w Ustawieniach. (Kod błędu: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Podczas rejestrowania połączeń przez Wi-Fi u operatora wystąpił problem: %1$s</item>
+    </string-array>
+</resources>

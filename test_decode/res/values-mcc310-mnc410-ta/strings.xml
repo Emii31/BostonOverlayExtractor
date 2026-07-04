@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">ஃபோன் அனுமதிக்கப்படவில்லை MM#6</string>
+    <string name="mmcc_illegal_me_msim_template">ஃபோன் %d அனுமதிக்கப்படவில்லை MM#6</string>
+    <string name="mmcc_illegal_ms">SIM அனுமதிக்கப்படவில்லை MM#3</string>
+    <string name="mmcc_illegal_ms_msim_template">SIM %d அனுமதிக்கப்படவில்லை MM#3</string>
+    <string name="mmcc_imsi_unknown_in_hlr">SIM நியமிக்கப்படவில்லை MM#2</string>
+    <string name="mmcc_imsi_unknown_in_hlr_msim_template">SIM %d நியமிக்கப்படவில்லை MM#2</string>
+</resources>
