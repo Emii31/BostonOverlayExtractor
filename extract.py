@@ -1,3 +1,4 @@
-from boe.core.cli import app
+from boe.core.cli import main
 
-app()
+if __name__ == "__main__":
+    main()
