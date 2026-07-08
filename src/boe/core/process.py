@@ -1,31 +1,53 @@
-from __future__ import annotations
-
-import subprocess
-from pathlib import Path
+from subprocess import run, PIPE
+import os
 
 
-class ProcessError(RuntimeError):
+class ProcessError(Exception):
     pass
 
 
 class Process:
+
     @staticmethod
-    def run(cmd: list[str], cwd=None) -> str:
-        result = subprocess.run(
-            cmd,
-            cwd=str(cwd) if cwd else None,
-            capture_output=True,
+    def run(cmd):
+
+        env = os.environ.copy()
+
+        tool_dir = os.path.dirname(str(cmd[0]))
+
+        if tool_dir:
+            env["PATH"] = (
+                tool_dir
+                + os.pathsep
+                + env.get("PATH", "")
+            )
+
+        result = run(
+            [str(x) for x in cmd],
+            stdout=PIPE,
+            stderr=PIPE,
             text=True,
-            shell=False,
+            env=env
         )
 
         if result.returncode != 0:
             print("\n========== PROCESS ERROR ==========")
-            print("CMD:", " ".join(cmd))
-            print("\nSTDOUT:\n", result.stdout)
-            print("\nSTDERR:\n", result.stderr)
-            print("==================================\n")
+            print("CMD:")
+            print(" ".join(str(x) for x in cmd))
+            print()
+            print("RETURN CODE:")
+            print(result.returncode)
+            print()
+            print("STDOUT:")
+            print(result.stdout)
+            print()
+            print("STDERR:")
+            print(result.stderr)
+            print("==================================")
 
-            raise ProcessError(result.stderr.strip() or "Process failed")
+            raise ProcessError(
+                result.stderr.strip()
+                or "Process failed"
+            )
 
-        return result.stdout.strip()
+        return result
